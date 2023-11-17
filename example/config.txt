@@ -1,0 +1,2 @@
+Prefix plugins/CacheViz/example/
+Plugin CacheViz inputfile input.csv outputfile output.eps
